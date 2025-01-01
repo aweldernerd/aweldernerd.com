@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "ms-azuretools.vscode-docker",
+    "shopify.ruby-lsp",
+    "dedsec727.jekyll-run",
+    "ginfuru.ginfuru-vscode-jekyll-syntax",
+  ]
+}

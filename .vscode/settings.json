@@ -1,0 +1,13 @@
+{
+    "jekyll-run.commandLineArguments": "--drafts --livereload",
+    "files.autoSave": "onWindowChange",
+    "cSpell.customDictionaries": {
+        "idiolect": {
+            "name": "idiolect",
+            "path": "${workspaceRoot}/idiolect.txt",
+            "description": "Words used in this project",
+            "addWords": true
+        },
+    }
+  }
+  

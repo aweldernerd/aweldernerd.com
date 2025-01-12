@@ -10,7 +10,7 @@ title: A Welder Nerd
 description: >
   Portfolio of Andrew Elder
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.aweldernerd.com" # the base hostname & protocol for your site
+url: "https://aweldernerd.com" # the base hostname & protocol for your site
 # twitter_username: aweldernerd
 github_username: aweldernerd
 linkedin_username: andy-elder-09937593
